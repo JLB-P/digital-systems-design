@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../l_01_tristate_buffer.srcs/sources_1/new/tristate_buffer.sv" \
+"../../../../l_01_tristate_buffer.srcs/sim_1/new/tristate_buffer_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
