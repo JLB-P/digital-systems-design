@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/repo/systemverilog/L07_edge detector/L07_edge detector.sim/sim_1/synth/func/xsim/edge_detect_moore_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module edge_detect_moore
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/repo/systemverilog/L07_edge detector/L07_edge detector.srcs/sim_1/new/edge_detect_moore_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module edge_detect_moore_tb

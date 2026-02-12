@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"edge_detect_moore_tb_func_synth.v" \
+
+sv xil_defaultlib  \
+"../../../../../L07_edge detector.srcs/sim_1/new/edge_detect_moore_tb.sv" \
+
+# Do not sort compile order
+nosort
